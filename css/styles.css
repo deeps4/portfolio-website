@@ -6,8 +6,6 @@
     --button-hover-color: rgb(48, 48, 255);
     --button-active-color: rgb(127, 246, 255);
     --button-focus-color: red;
-    --button__secondary-background-colour: #e0b354;
-    --button__secondary-color: #2b2b2b;
     --page-header-color:grey;
     --grid-item-background-color: lightgrey;
     --button-background-color:#357b70;
@@ -78,10 +76,7 @@ button:hover, button:focus{
     opacity: 0.8;
 }
 
-.button__secondary{
-    background-color: var(--button__secondary-background-colour);
-    color: var(--button__secondary-color);
-}
+
 
 .navigation-list__item--active{
     text-decoration: none;
