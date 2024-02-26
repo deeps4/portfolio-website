@@ -103,9 +103,6 @@ button:hover, button:focus{
     flex-direction: column;
     align-items: center;
 }
-.container__item{
-  
-}
 
 .svg__container{
     width: 60%;
@@ -136,10 +133,7 @@ button:hover, button:focus{
     border-bottom: 1px solid var(--page-header-color);
 }
 
-.page-header__item{
-    /* flex: 0 1 200px; */
 
-}
 .page__logo{
     width: 100px;
     height: 100px;
