@@ -113,6 +113,7 @@ button:hover, button:focus{
     box-sizing: border-box;
 }
 
+
 .page-footer{
     clear: both;
     display: flex;
@@ -268,3 +269,11 @@ button:hover, button:focus, .button:hover, .button:focus{
   .cloud-back {
     animation: 34s cloud-move-reverse infinite alternate linear;
   }
+
+
+.contact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
