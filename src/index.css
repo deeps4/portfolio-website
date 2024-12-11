@@ -1,7 +1,8 @@
 :root {
   --bs-dark-rgb: 0, 109, 119;
   --bs-primary-rgb: 51, 51, 51;
-  --bs-btn-color:#E29578; 
+  --bs-btn-color:#E29578;
+  --bs-link-color-rgb: 0, 109, 119;
 }
 
 .btn-primary {
